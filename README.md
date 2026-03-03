@@ -3,7 +3,6 @@
 🎓 Estudante de Engenharia de Software na [UNISATC](https://unisatc.com)  
 💻 Apaixonada por tecnologia, programação e aprendizado contínuo  
 🌍 Experiência: curso de verão em Cambridge University; monitora de Álgebra Linear; Front-End Básico
-📚 Áreas de interesse: Cybersegurança, Full-Stack
 
 ---
 
