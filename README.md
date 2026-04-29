@@ -1,16 +1,8 @@
-# Estér Frank Schulter Serafim
+# Estér Frank - she/her
 
 Software Engineering student with a strong interest in combining **technology, history, and digital preservation**.
 
 Currently developing academic and technical projects focused on structured web content, historical documentation, and front-end development.
-
----
-
-## About Me
-
-I am a Software Engineering student at **UniSatc (Brazil)**, with a growing interest in front-end development, digital archives, and historically oriented projects.
-
-In 2022, I attended a **Summer History Course at the University of Cambridge**, which strengthened my interest in historical research and archival organization. This experience continues to influence my technical and academic projects.
 
 ---
 
