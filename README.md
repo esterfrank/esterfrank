@@ -27,6 +27,8 @@ https://github.com/esterfrank/mileva-maric-archives
 * HTML5
 * CSS3
 * JavaScript
+* Python
+* SQL
 * Git
 * GitHub
 * Basic DOM Manipulation
