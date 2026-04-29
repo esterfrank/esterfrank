@@ -85,8 +85,11 @@ United Kingdom — 2022
 
 ## Contact
 
-GitHub:
-https://github.com/esterfrank
+Linkedln:
+https://www.linkedin.com/in/esterfrank/
+
+E-mail:
+esterschulterserafim@gmail.com
 
 Location:
 Brazil
@@ -95,5 +98,4 @@ Brazil
 
 ## Projects in Development
 
-* Mileva Marić's Archives (ongoing expansion)
-* Additional historical and educational web projects (planned)
+* Mileva Marić's Archives (ongoing expansion).
