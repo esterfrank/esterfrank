@@ -10,14 +10,6 @@ Currently developing academic and technical projects focused on structured web c
 
 I am a Software Engineering student at **UniSatc (Brazil)**, with a growing interest in front-end development, digital archives, and historically oriented projects.
 
-My academic interests include:
-
-* Front-End Development
-* Web Architecture
-* Digital Historical Documentation
-* Structured Content Design
-* Software Development Fundamentals
-
 In 2022, I attended a **Summer History Course at the University of Cambridge**, which strengthened my interest in historical research and archival organization. This experience continues to influence my technical and academic projects.
 
 ---
@@ -33,13 +25,6 @@ https://esterfrank.github.io/mileva-maric-archives/
 
 Repository:
 https://github.com/esterfrank/mileva-maric-archives
-
-This project combines:
-
-* Historical research
-* Front-end development practice
-* Structured archival presentation
-* Static site deployment using GitHub Pages
 
 ---
 
@@ -74,15 +59,6 @@ United Kingdom — 2022
 
 ---
 
-## Current Focus
-
-* Expanding historical web projects
-* Improving front-end development skills
-* Building structured digital archives
-* Practicing version control workflows
-
----
-
 ## Contact
 
 Linkedln:
@@ -93,9 +69,3 @@ esterschulterserafim@gmail.com
 
 Location:
 Brazil
-
----
-
-## Projects in Development
-
-* Mileva Marić's Archives (ongoing expansion).
