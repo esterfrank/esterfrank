@@ -2,7 +2,7 @@
 
 Software Engineering student with a strong interest in combining **technology, history, and digital preservation**.
 
-Currently developing academic and technical projects focused on structured web content, historical documentation, and front-end development.
+Currently developing academic and technical projects focused on structured web content, historical documentation, and front/back-end development.
 
 ---
 
