@@ -13,7 +13,7 @@ Currently developing academic and technical projects focused on structured web c
 Static website dedicated to documenting the life, family history, and historical context of Mileva Marić and her family.
 
 Live project:
-https://esterfrank.github.io/mileva-maric-archives/
+https://esterfrank.github.io/Mileva-Maric-Archives/
 
 Repository:
 https://github.com/esterfrank/mileva-maric-archives
