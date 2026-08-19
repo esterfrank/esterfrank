@@ -27,19 +27,13 @@ https://github.com/esterfrank/mileva-maric-archives
 * HTML5
 * CSS3
 * JavaScript
+* Java
 * Python
 * SQL
 * Git
 * GitHub
 * Basic DOM Manipulation
 * Responsive Layout Design
-
-**Currently Learning**
-
-* Advanced JavaScript
-* Front-End Architecture
-* Web Accessibility
-* Software Engineering Practices
 
 ---
 
