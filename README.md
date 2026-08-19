@@ -31,7 +31,6 @@ https://github.com/esterfrank/mileva-maric-archives
 * Python
 * SQL
 * Git
-* GitHub
 * Basic DOM Manipulation
 * Responsive Layout Design
 
